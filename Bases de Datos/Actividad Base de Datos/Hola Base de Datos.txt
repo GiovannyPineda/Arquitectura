@@ -1,1 +1,7 @@
 Lorem ipsum
+
+Gracias 
+
+git add *
+git commit -m "Escribir Cualquier Cosa"
+git push
